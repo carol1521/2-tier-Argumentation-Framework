@@ -1,4 +1,4 @@
-# zhu-prog
+# 2-tier Argumentation Framework' Server
 
 ## Project setup
 ```
